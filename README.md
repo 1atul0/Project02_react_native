@@ -1,3 +1,5 @@
+![WhatsApp Image 2025-02-08 at 21 46 43_f11ae9ce](https://github.com/user-attachments/assets/6c137872-ee76-4292-9acb-b55c079f15e1)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
